@@ -1,0 +1,16 @@
+{
+    "name": "productos-json-server-heroku",
+    "version": "1.0.0",
+    "description": "Simulación base de datos externa",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "keywords": [
+        "json-server,heroku, node, REST API"
+    ],
+    "dependencies": {
+        "json-server": "^0.12.1"
+    }
+}
