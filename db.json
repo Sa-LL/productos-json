@@ -1,0 +1,154 @@
+{
+	"list": {
+		"Celular": [
+			{
+				"id": "chy9p",
+				"nombre": "huawei y9 prime",
+				"marca": "huawei",
+				"precio": "1100000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "chag7",
+				"nombre": "huawei ascend g7",
+				"marca": "huawei",
+				"precio": "1000000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "clp2",
+				"nombre": "lenovo phab 2",
+				"marca": "lenovo",
+				"precio": "750000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "clz5",
+				"nombre": "lenovo z5",
+				"marca": "lenovo",
+				"precio": "1500000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "chag7",
+				"nombre": "alcatel 1c",
+				"marca": "alcatel",
+				"precio": "191000",
+				"cantidad" : "15"
+			}
+		],
+		"Tablet": [
+			{
+				"id": "ti11",
+				"nombre": "ipad 11",
+				"marca": "apple",
+				"precio": "3990000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "taa3",
+				"nombre": "alcatel A3",
+				"marca": "alcatel",
+				"precio": "380000",
+				"cantidad" : "15"
+			}
+		],
+		"Laptop": [
+			{
+				"id": "pax455l",
+				"nombre": "asus X455L",
+				"marca": "asus",
+				"precio": "1000000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "pax55l",
+				"nombre": "asus X555L",
+				"marca": "asus",
+				"precio": "1200000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "phck25",
+				"nombre": "hp CK25",
+				"marca": "hp",
+				"precio": "810000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "pdaa51",
+				"nombre": "dell alienware area 51",
+				"marca": "dell",
+				"precio": "9000000",
+				"cantidad" : "15"
+			}
+		],
+		"Televisor": [
+			{
+				"id": "tesstu7000",
+				"nombre": "Samsung Smart TV Serie TU7000",
+				"marca": "samsung",
+				"precio": "2800000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "tesa8g",
+				"nombre": "Sony A8G",
+				"marca": "sony",
+				"precio": "11300000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "telg55um",
+				"nombre": "LG 55UM741",
+				"marca": "LG",
+				"precio": "1500000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "tehi32he4100",
+				"nombre": "Hitachi TV 32HE4100",
+				"marca": "hitachi",
+				"precio": "900000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "tekkled50",
+				"nombre": "Kalley kled50uhdsfbt",
+				"marca": "kalley",
+				"precio": "1200000",
+				"cantidad" : "15"
+			}
+		],
+		"PC": [
+			{
+				"id": "pcam2018",
+				"nombre": "macbook 2018",
+				"marca": "apple",
+				"precio": "6000000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "pcdis5000",
+				"nombre": "dell inspiron serie 5000",
+				"marca": "dell",
+				"precio": "4000000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "pcas7",
+				"nombre": "acer aspire 7",
+				"marca": "acer",
+				"precio": "4500000",
+				"cantidad" : "15"
+			},
+			{
+				"id": "pctl55d",
+				"nombre": "toshiba L55D",
+				"marca": "toshiba",
+				"precio": "3700000",
+				"cantidad" : "15"
+			}
+		]
+	}
+}
